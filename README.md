@@ -226,19 +226,27 @@ The project demonstrates how Excel can be used as a complete data analytics tool
 ## 📁 Project Structure
 
 ```text
-Coffee-Sales-Dashboard/
+Coffee-sales-dashboard/
 │
-├── Coffee_Sales_Dashboard.xlsx
+├── Coffee-sales-dashboard.xlsx
+│   ├── Dashboard
+│   ├── Data
+│   ├── Power Query
+│   ├── PivotTables
+│   ├── PivotCharts
+│   ├── Slicers
+│   └── Key Insights
 │
-├── README.md
+├── Dashboard_Screenshot.png
+│   └── Final dashboard preview
 │
-└── Dashboard Screenshot/
-    └── coffee_sales_dashboard.png
+└── README.md
+    └── Project documentation, features, methodology, and insights
 ```
 
 ### Main Excel File
 
-**`Coffee_Sales_Dashboard.xlsx`** contains the complete Excel project, including:
+**`Coffee-sales-dashboard.xlsx`** contains the complete Excel project, including:
 
 * Dashboard
 * Cleaned/transformed data
@@ -251,13 +259,6 @@ Coffee-Sales-Dashboard/
 
 ---
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot here:
-
-```markdown
-![Coffee Sales Dashboard](Dashboard%20Screenshot/coffee_sales_dashboard.png)
-```
 
 ---
 
